@@ -11,7 +11,6 @@ public class ContaTerminal {
 		double saldo;
 
 		System.out.println("---------------CONTA BANCÁRIA---------------");
-		System.out.println();
 		System.out.println("Por favor, digite o número da sua Conta: ");
 		numero = sc.nextInt();
 
