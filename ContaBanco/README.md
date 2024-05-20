@@ -1,18 +1,31 @@
-## Getting Started
+# Projeto ContaTerminal DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto em Java para Simular uma conta bancária através do terminal/Console.
 
-## Folder Structure
+## 🚀 Começando
 
-The workspace contains two folders by default, where:
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 📋 Pré-requisitos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Conhecimentos básicos em Java;
 
-## Dependency Management
+Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+IDE (Visual Studio Code, Eclipse, etc);
+
+### 🔧 Instalação
+
+Clone o Meu repositório do Github: [nesse link](https://github.com/Rafagons/dio-java-banco-terminal.git) e execute com a IDE de sua preferência.
+
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [Java JDK 21](https://www.oracle.com/middleeast/java/technologies/downloads/) - Jdk Java Usado.
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE Utilizada para criação e edição do código.
+
+---
+⌨Criado por [Rafagons](https://github.com/Rafagons) 
