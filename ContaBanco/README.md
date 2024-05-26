@@ -26,4 +26,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE Utilizada para criação e edição do código.
 
 ---
-⌨Criado por [Rafagons](https://github.com/Rafagons) 
+⌨Criado por [Rafagons](https://github.com/Rafagons) Amo a Ana Carolina.
