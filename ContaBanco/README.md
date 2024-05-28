@@ -20,8 +20,6 @@ Clone o Meu repositório do Github: [nesse link](https://github.com/Rafagons/dio
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Java JDK 21](https://www.oracle.com/middleeast/java/technologies/downloads/) - Jdk Java Usado.
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE Utilizada para criação e edição do código.
 
